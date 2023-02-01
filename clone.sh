@@ -1,2 +1,2 @@
 #!/bin/sh
-printenv
+print ${HARNESS_PROJECT_ID}

@@ -1,2 +1,2 @@
 #!/bin/sh
-print ${HARNESS_PROJECT_ID}
+echo ${HARNESS_PROJECT_ID}
